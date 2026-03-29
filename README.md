@@ -1,4 +1,4 @@
 # For-Learning
 This is my first Git Repository for Learning.
 <br>
-Author - Janak Shrestha
+Author - Janak Shrestha (Master in Computer Science)
